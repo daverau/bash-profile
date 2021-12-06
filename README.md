@@ -19,7 +19,7 @@ nano ~/.bash_aliases
 ````
 
 ## system
-````
+```
 alias ll='ls -l'
 alias la='ls -A'
 alias gigs='du -h --max-depth=3 * | grep "[0-9]G\>"'
